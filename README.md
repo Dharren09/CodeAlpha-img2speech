@@ -40,12 +40,12 @@ CodeAlpha Image to Speech Generator is a Python-based tool that allows you to co
 4. Run the script
 
    ```bash
-   python3 img2speech.py your_image.png
+   python3 img2speech.py your_image.png // your_image.png == path to your image you want to convert
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and pull requests to suggest improvements or report bugs.
 
 ## Contact
-For questions or feedback, you can reach us at dharrydharrenzerah@email.com.
+For questions or feedback, you can reach me at dharrydharrenzerah@gmail.com
 
 Happy coding!
