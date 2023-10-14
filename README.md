@@ -14,6 +14,9 @@ CodeAlpha Image to Speech Generator is a Python-based tool that allows you to co
 ## Prerequisites
 
 - Python 3.x
+- sudo apt-get install
+  - tesseract-ocr
+  - mpg123
 - Required Python packages (install using `pip`):
   - pytesseract
   - Pillow
