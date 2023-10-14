@@ -6,7 +6,7 @@ from gtts import gTTS
 pytesseract.pytesseract.tesseract_cmd = 'tesseract'
 
 # upload of the image in which text shall be extracted
-image = Image.open('/home/iamdharrenzug/projects/CodeAlpha-img2speech/cat.jpeg')
+image = Image.open('/home/iamdharrenzug/projects/CodeAlpha-img2speech/cat.jpeg') # substitute path with link to your image
 
 # Perform OCR on the image
 text = pytesseract.image_to_string(image)
